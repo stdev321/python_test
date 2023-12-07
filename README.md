@@ -1,30 +1,33 @@
-# In order to test please check the following steps
+# Algorithms and Coding Challenges
 
-# To run League Table Algo run the following command in terminal or you can directly run from pycharm
+### This repository includes Python scripts for various algorithms and coding challenges. Below are the instructions to test each algorithm:
 
-# python league_table_algo.py
+## League Table Algorithm
 
-==========================================
+### To test the League Table Algorithm, run the following command in the terminal or directly execute it from your preferred IDE (e.g., PyCharm):
 
-# To run Ice cream machine run the following command in terminal or you can directly run from pycharm
+**  python league_table_algo.py **
 
-# python ice_cream_machine.py
+## Ice Cream Machine
 
-==========================================
+### To test the Ice Cream Machine, execute the following command in the terminal or directly run it from your preferred IDE:
 
-# To run Sorted search run the following command in terminal or you can directly run from pycharm
+**  python ice_cream_machine.py **
 
-# python sorted_search.py
+## Sorted Search
 
-==========================================
+### To test the Sorted Search algorithm, run the following command in the terminal or directly execute it from your preferred IDE:
 
-# To run Two sum run the following command in terminal or you can directly run from pycharm
+**  python sorted_search.py **
 
-# python two_sum.py
+## Two Sum
 
-==========================================
+### To test the Two Sum algorithm, execute the following command in the terminal or directly run it from your preferred IDE:
 
-# To run Merge Names run the following command in terminal or you can directly run from pycharm
+**  python two_sum.py **
 
-# python merge_names.py
+## Merge Names
 
+### To test the Merge Names algorithm, run the following command in the terminal or directly execute it from your preferred IDE:
+
+**  python merge_names.py **
